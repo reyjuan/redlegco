@@ -13,3 +13,11 @@ Example: `npm test ./store1`
 ### Tips
 * Be sure to review dot notation vs. bracket notation and when you need to use one over the other.
 * You will be using array and object methods, if you're not comfortable with these, [review this.](https://github.com/robhaj/js-array-and-string-manipulation)
+User stories
+	1) Site has uniform color scheme that matches with logo colors.
+	2) User can navigate to capabilities, About Us and contact page
+	3) User will use a web form to send contact information and question/request
+		a. API with CRM? Insightly
+	4) User can see NAICS (Pri and Sec), CAGE and DUNS numbers
+	5) User can see SM icons linked to those sites
+	6) Site will have Google Analytics setup for each page
